@@ -1,2 +1,3 @@
-# spawnUnit
-Plugin for Mindustry v105. Spawn units.
+#Use
+/spawn unit count team
+Ex: /spawn mono 20 sharded
