@@ -1,4 +1,5 @@
-###Use
+# Use
 
-/spawn unit count team
-Ex: /spawn mono 20 sharded
+Template: `/spawn unit count team`
+
+Ex: `/spawn mono 10 sharded`
